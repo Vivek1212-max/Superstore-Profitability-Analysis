@@ -1,3 +1,4 @@
+<img width="1366" height="768" alt="Screenshot (100)" src="https://github.com/user-attachments/assets/dba13a2e-9429-470d-a84e-2af053dca13b" />
 # Dashboard
 
 This folder contains the dashboard screenshots created for the **Superstore Profitability Analysis** project.
@@ -18,3 +19,6 @@ The dashboard provides a quick overview of:
 - Loss-making sub-categories
 - Sales and Profit comparison
 - Key business recommendations
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
